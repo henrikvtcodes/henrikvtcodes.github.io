@@ -1,0 +1,20 @@
+{
+  "fileName": "Roboled.json",
+  "name": "Roboled",
+  "version": "2024.0.1",
+  "uuid": "b832e4a1-61bd-4184-a139-ec36e1949ff4",
+  "frcYear": "2024",
+  "mavenUrls": [
+    "https://henrikvtcodes.github.io/roboled/maven"
+  ],
+  "jsonUrl": "https://henrikvtcodes.github.io/roboled/Roboled.json",
+  "javaDependencies": [
+    {
+      "groupId": "frc.hvtc.roboled",
+      "artifactId": "Roboled-java",
+      "version": "2024.0.1"
+    }
+  ],
+  "jniDependencies": [],
+  "cppDependencies": []
+}

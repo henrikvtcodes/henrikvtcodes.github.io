@@ -1,3 +1,6 @@
 # henrikvtcodes.github.io
-Github Pages Site for static file hosting
-I did a thing for VERSO!
+I am the unicycle guy heheh  
+<img src="https://media.tenor.com/qTvfcUyyyjQAAAAi/dat-boi-meme.gif" alt="here come dat boi" style="max-width: 405px; background-color: unset;">  
+
+### VERSO Onboarding
+Github pages stuff done
